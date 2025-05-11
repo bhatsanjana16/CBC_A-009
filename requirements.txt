@@ -1,8 +1,0 @@
-asyncio
-pyaudio
-websockets
-python-dotenv
-gTTS
-googletrans==4.0.0rc1
-pandas
-simpleaudio
