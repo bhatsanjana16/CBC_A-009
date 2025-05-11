@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AgriEye - Voice Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="overlay">
+        <div class="container">
+            <h1>🌾 AgriEye</h1>
+            <p>Your voice-based assistant for rural development</p>
+
+            <div class="button-group">
+                <button onclick="start()" class="start-btn">🎤 Start Listening</button>
+                <button onclick="stop()" class="stop-btn">🛑 Stop Listening</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function start() {
+            fetch('/start', { method: 'POST' })
+                .then(res => res.json())
+                .then(data => alert("Assistant: " + data.status));
+        }
+
+        function stop() {
+            fetch('/stop', { method: 'POST' })
+                .then(res => res.json())
+                .then(data => alert("Assistant: " + data.status));
+        }
+    </script>
+</body>
+</html>
+
+
+

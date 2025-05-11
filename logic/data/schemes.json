@@ -1,0 +1,47 @@
+{
+  "PM-KISAN": {
+    "description": "Pradhan Mantri Kisan Samman Nidhi for small/marginal farmers.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["farmer"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmkisan.gov.in/RegistrationForm.aspx"
+  },
+  "PMEGP": {
+    "description": "Prime Minister’s Employment Generation Programme for self-employment.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["entrepreneur", "unemployed"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.kviconline.gov.in/pmegpeportal/"
+  },
+  "Ayushman Bharat": {
+    "description": "Health insurance scheme for economically vulnerable Indians.",
+    "eligibility": {
+      "age_min": 0,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmjay.gov.in/"
+  },
+  "PMAY-G": {
+    "description": "Pradhan Mantri Awas Yojana - Gramin for rural housing.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmayg.nic.in/"
+  },
+  "PMAY-U": {
+    "description": "Pradhan Mantri Awas Yojana - Urban for urban housing.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmaymis.gov.in/"
+  }
+}
