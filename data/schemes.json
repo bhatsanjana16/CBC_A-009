@@ -1,0 +1,232 @@
+{
+  "PM-KISAN": {
+    "description": "Pradhan Mantri Kisan Samman Nidhi for small/marginal farmers.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["farmer"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmkisan.gov.in/RegistrationForm.aspx"
+  },
+  "PMEGP": {
+    "description": "Prime Minister’s Employment Generation Programme for self-employment.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["entrepreneur", "unemployed"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.kviconline.gov.in/pmegpeportal/"
+  },
+  "Ayushman Bharat": {
+    "description": "Health insurance scheme for economically vulnerable Indians.",
+    "eligibility": {
+      "age_min": 0,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmjay.gov.in/"
+  },
+  "PMAY-G": {
+    "description": "Pradhan Mantri Awas Yojana - Gramin for rural housing.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmayg.nic.in/"
+  },
+  "PMAY-U": {
+    "description": "Pradhan Mantri Awas Yojana - Urban for urban housing.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmaymis.gov.in/"
+  },
+  "PM Ujjwala Yojana": {
+    "description": "Provides LPG connections to women from BPL households.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmuy.gov.in/"
+  },
+  "PM Mudra Yojana": {
+    "description": "Provides loans to non-corporate, non-farm small/micro enterprises.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["entrepreneur", "unemployed"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.mudra.org.in/"
+  },
+  "Stand-Up India": {
+    "description": "Facilitates bank loans between ₹10 lakh and ₹1 crore to SC/ST and women entrepreneurs.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["entrepreneur"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.standupmitra.in/"
+  },
+  "Atal Pension Yojana": {
+    "description": "Pension scheme for unorganized sector workers.",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": 40,
+      "occupation": ["unorganized sector"],
+      "states": ["all"]
+    },
+    "registration_link": "https://npscra.nsdl.co.in/scheme-details.php"
+  },
+  "PM Jeevan Jyoti Bima Yojana": {
+    "description": "Life insurance scheme for individuals aged 18 to 50.",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": 50,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://jansuraksha.gov.in/Forms-PMJJBY.aspx"
+  },
+  "PM Suraksha Bima Yojana": {
+    "description": "Accident insurance scheme for individuals aged 18 to 70.",
+    "eligibility": {
+      "age_min": 18,
+      "age_max": 70,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://jansuraksha.gov.in/Forms-PMSBY.aspx"
+  },
+  "Digital India": {
+    "description": "Campaign to ensure the Government's services are made available to citizens electronically.",
+    "eligibility": {
+      "age_min": 0,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.digitalindia.gov.in/"
+  },
+  "Startup India": {
+    "description": "Initiative to build a strong ecosystem for nurturing innovation and startups.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["entrepreneur"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.startupindia.gov.in/"
+  },
+  "Make in India": {
+    "description": "Initiative to encourage companies to manufacture in India.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["entrepreneur"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.makeinindia.com/"
+  },
+  "Skill India": {
+    "description": "Campaign to train over 40 crore people in India in different skills by 2022.",
+    "eligibility": {
+      "age_min": 14,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.skillindia.gov.in/"
+  },
+  "Swachh Bharat Mission": {
+    "description": "Nationwide campaign for cleanliness and sanitation.",
+    "eligibility": {
+      "age_min": 0,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://swachhbharatmission.gov.in/"
+  },
+  "Beti Bachao Beti Padhao": {
+    "description": "Campaign to generate awareness and improve the efficiency of welfare services for girls.",
+    "eligibility": {
+      "age_min": 0,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://wcd.nic.in/bbbp-schemes"
+  },
+  "Pradhan Mantri Fasal Bima Yojana": {
+    "description": "Crop insurance scheme for farmers.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["farmer"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmfby.gov.in/"
+  },
+  "National Rural Employment Guarantee Act (MGNREGA)": {
+    "description": "Provides at least 100 days of wage employment in a financial year to rural households.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://nrega.nic.in/"
+  },
+  "Deen Dayal Upadhyaya Grameen Kaushalya Yojana": {
+    "description": "Skill training program for rural youth.",
+    "eligibility": {
+      "age_min": 15,
+      "age_max": 35,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://ddugky.gov.in/"
+  },
+  "National Career Service": {
+    "description": "Provides a variety of employment-related services.",
+    "eligibility": {
+      "age_min": 14,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.ncs.gov.in/"
+  },
+  "Pradhan Mantri Kaushal Vikas Yojana": {
+    "description": "Skill certification scheme to enable youth to take up industry-relevant skill training.",
+    "eligibility": {
+      "age_min": 14,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.pmkvyofficial.org/"
+  },
+  "Sukanya Samriddhi Yojana": {
+    "description": "Savings scheme for the girl child.",
+    "eligibility": {
+      "age_min": 0,
+      "age_max": 10,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.india.gov.in/sukanya-samriddhi-yojana"
+  },
+  "Pradhan Mantri Jan Dhan Yojana": {
+    "description": "Financial inclusion program to expand affordable access to financial services.",
+    "eligibility": {
+      "age_min": 10,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://pmjdy.gov.in/"
+  },
+  "Ujjwala 2.0": {
+    "description": "Provides deposit-free LPG connections to low-income families.",
+    "eligibility": {
+      "age_min": 18,
+      "occupation": ["all"],
+      "states": ["all"]
+    },
+    "registration_link": "https://www.pmuy.gov.in/"
+  }
+}

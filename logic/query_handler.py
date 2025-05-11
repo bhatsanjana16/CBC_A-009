@@ -80,10 +80,13 @@ from langchain.vectorstores import FAISS
 from langchain.llms import OpenAI
 from langchain.chains import RetrievalQA
 from langchain.schema import Document
+<<<<<<< HEAD
 from gemini.api import call_gemini_api
 
 response = call_gemini_api("Tell me about PM-KISAN scheme.")
 print(response)
+=======
+>>>>>>> 6fd9e887dd268d7c1f5d5ca86d04f24ec19f5970
 
 # ─────────── CONFIG ───────────
 
